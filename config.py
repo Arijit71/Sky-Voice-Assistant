@@ -1,0 +1,1 @@
+config = {"news_api_key" : "NEWS_API_KEY", "chatgpt_api_key" : "CHATGPT_API_KEY"}
