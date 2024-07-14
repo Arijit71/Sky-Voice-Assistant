@@ -42,13 +42,13 @@ Sky greets the current user logged into the computer with a delightful image of 
 ### Installation
 1. Clone the Sky repository:
 
-    git clone https://github.com/Arijit71/Sky-Voice-Assistant.git
-    cd sky-voice-assistant
+        git clone https://github.com/Arijit71/Sky-Voice-Assistant.git
+        cd Sky-Voice-Assistant
 
 
 2. Install the required dependencies:
 
-    pip install -r requirements.txt
+        pip install -r requirements.txt
 
 
 ### Configuration
