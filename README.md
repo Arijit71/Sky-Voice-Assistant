@@ -1,7 +1,7 @@
 # Sky Voice Assistant
 
 
-## Video Demo:
+## Video Demo: https://youtu.be/-HHHjbyfgi4
 
 
 ## Introduction
@@ -83,4 +83,6 @@ Sky is designed to interact with you verbally. Speak your commands, and Sky will
 ## Conclusion
 
 
-Sky is your friendly voice assistant, ready to help with a variety of tasks. Whether you need the latest news, quick access to websites, mood-based music, or just a friendly greeting, Sky is here to assist you. Enjoy using Sky and explore its many capabilities!
+Sky is your friendly AI powered voice assistant, ready to help with a variety of tasks. Whether you need the latest news, quick access to websites, mood-based music, or just a friendly greeting, Sky is here to assist you. Please do check out the video demo which I have created. Thank You!
+
+Enjoy using Sky and explore its many capabilities!

@@ -25,7 +25,7 @@ def speak(text):
     pygame.mixer.music.play()
 
     while pygame.mixer.music.get_busy():
-        pygame.time.Clock().tick(10)
+        pygame.time.Clock().tick(30)
     
     pygame.mixer.music.unload()
     os.remove("temp.mp3")
@@ -95,9 +95,9 @@ def processCommand(c):
 
     else:
         chatbot_response = ai_integration.get_chatbot_response(c)
+        print(chatbot_response)
         speak(chatbot_response)
-        print(chatbot_response)     
-
+             
 
 def main():
     speak("Initializing Sky....")
