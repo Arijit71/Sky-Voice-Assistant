@@ -89,7 +89,7 @@ def processCommand(c):
             for article in articles:
                 speak(article["title"])
     
-    elif ("greet" or "greet me" or "exit" or "goodbye") in c:
+    elif ("greet" or "greet me") in c:
         cowsay.cow(f"Hello, {username}")
         speak(f"Hello, {username}")
 
