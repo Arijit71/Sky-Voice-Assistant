@@ -95,8 +95,8 @@ def processCommand(c):
 
     else:
         chatbot_response = ai_integration.get_chatbot_response(c)
-        print(chatbot_response)
         speak(chatbot_response)
+        print(chatbot_response)     
 
 
 def main():
